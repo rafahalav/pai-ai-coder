@@ -64,7 +64,7 @@ with st.sidebar:
 st.title("PAI Explica - AI Coder")
 
 # Subtítulo adicional
-st.title("Assistente Pessoal de Programação Python 🐍")
+st.title("Personal Assistente Inteligente - Python 🐍")
 
 # Texto auxiliar abaixo do título
 st.caption("Faça sua pergunta sobre a Linguagem Python e obtenha código, explicações e referências.")
