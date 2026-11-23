@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/pai-ai-coder-banner.png"
+       width="100%"
+       alt="PAI py Coder - AI-Powered Python Programming Assistant">
+</p>
+
 # 🤖 PAI py Coder - Personal Assistente Inteligente em Python
 
 Uma aplicação web interativa desenvolvida para auxiliar estudantes e desenvolvedores no aprendizado de Python, utilizando um Large Language Model (LLM) via API da Groq.
