@@ -28,7 +28,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina. Recomenda-se o uso d
 
 **1. Navegue até a pasta do projeto:**
 ```bash
-cd ~/Pai_Coder/pai_py_coder
+cd ~/pai-ai-coder
 ```
 
 **2. Crie e ative o ambiente virtual:**
