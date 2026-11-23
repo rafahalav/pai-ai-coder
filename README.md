@@ -1,9 +1,9 @@
-# 🤖 PAI AI Coder - Assistente Especializado em Python
+# 🤖 PAI py Coder - Personal Assistente Inteligente em Python
 
 Uma aplicação web interativa desenvolvida para auxiliar estudantes e desenvolvedores no aprendizado de Python, utilizando um Large Language Model (LLM) via API da Groq.
 
 ## 🚀 Sobre o Projeto
-O **PAI AI Coder** não é um chatbot genérico. Ele foi projetado com **Engenharia de Prompt (Prompt Engineering)** avançada para atuar como um tutor técnico rigoroso. O modelo é instruído a seguir uma estrutura pedagógica fixa em todas as respostas: *Conceito → Código Comentado → Análise Detalhada → Documentação Oficial*. 
+O **PAI py Coder** não é um chatbot genérico. Ele foi projetado com **Engenharia de Prompt (Prompt Engineering)** avançada para atuar como um tutor técnico rigoroso. O modelo é instruído a seguir uma estrutura pedagógica fixa em todas as respostas: *Conceito → Código Comentado → Análise Detalhada → Documentação Oficial*. 
 
 Este projeto foi desenvolvido como parte da minha transição profissional para Inteligência Artificial e Desenvolvimento de Software, aplicando meus 25+ anos de experiência em infraestrutura, lógica e educação técnica.
 
@@ -52,11 +52,11 @@ streamlit run pai.py
 
 ## 💬 Exemplo Real de Interação
 
-Veja como o **PAI AI Coder** responde a uma pergunta, seguindo rigorosamente as diretrizes de formatação definidas no *System Prompt*:
+Veja como o **PAI py Coder** responde a uma pergunta, seguindo rigorosamente as diretrizes de formatação definidas no *System Prompt*:
 
 > **Usuário:** "O que são variáveis booleanas em Python?"
 > 
-> **PAI AI Coder:**
+> **PAI py Coder:**
 > **Explicação Clara**  
 > Variáveis booleanas são variáveis que armazenam apenas dois valores possíveis: True (verdadeiro) ou False (falso). Elas são usadas para representar condições lógicas, controlar fluxos de decisão (if, while, etc.) e armazenar resultados de comparações. Em Python, os valores booleanos são objetos da classe `bool`, subclasse de `int`.
 > 
@@ -80,7 +80,7 @@ Veja como o **PAI AI Coder** responde a uma pergunta, seguindo rigorosamente as 
 
 ---
 
-## 👨‍💻 Autor
+## 🧑‍💻 Autor
 **Rafael Halav**  
 Technology Professional | Telecommunications | IT | Python | AI | Data  
 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-halav) | ✉️ [Contato](mailto:rafael.halav.tech@gmail.com)
