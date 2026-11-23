@@ -11,7 +11,7 @@ from groq import Groq
 
 # Configura a página do Streamlit com título, ícone, layout e estado inicial da sidebar
 st.set_page_config(
-    page_title="PAI AI Coder",
+    page_title="PAI py Coder",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -19,7 +19,7 @@ st.set_page_config(
 
 # Define um prompt de sistema que descreve as regras e comportamento do assistente de IA
 CUSTOM_PROMPT = """
-Você é o "PAI Coder", um assistente de IA especialista em programação, com foco principal em Python. Sua missão é ajudar desenvolvedores iniciantes com dúvidas de programação de forma clara, precisa e útil.
+Você é o "PAI py Coder", um assistente de IA especialista em programação, com foco principal em Python. Sua missão é ajudar desenvolvedores iniciantes com dúvidas de programação de forma clara, precisa e útil.
 
 REGRAS DE OPERAÇÃO:
 1.  **Foco em Programação**: Responda apenas a perguntas relacionadas a programação, algoritmos, estruturas de dados, bibliotecas e frameworks. Se o usuário perguntar sobre outro assunto, responda educadamente que seu foco é exclusivamente em auxiliar com código.
@@ -52,16 +52,16 @@ with st.sidebar:
     st.markdown("Desenvolvido para auxiliar em suas dúvidas de programação com Linguagem Python. Atenção, IA pode cometer erros! Sempre verifique as respostas.")
 
     st.markdown("---")
-    st.markdown("Saiba mais sobre o PAI Explica:")
+    st.markdown("Saiba mais sobre o PAI Coder:")
 
     # Link para o site da PAI
-    st.markdown("🔗 [PAI Explica](https://www.paiexplica.com.br)")
+    st.markdown("🔗 [PAI Coder](https://www.paicoder.com.br)")
     
     # Botão de link para enviar e-mail ao suporte da DSA
-    st.link_button("✉️ E-mail Para o Suporte PAI no Caso de Dúvidas", "rafa.halav83@gmail.com")
+    st.link_button("✉️ E-mail Para o Suporte PAI no Caso de Dúvidas", "rafael.halav,tech@gmail.com")
 
 # Título principal do app
-st.title("PAI Explica - AI Coder")
+st.title("PAI py - Coder")
 
 # Subtítulo adicional
 st.title("Personal Assistente Inteligente - Python 🐍")
@@ -158,7 +158,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Obrigado Pai
+# Obrigado Pai py
 
 
 
